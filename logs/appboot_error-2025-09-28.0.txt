@@ -1,0 +1,31 @@
+2025-09-28 21:29:30.608[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 21:29:31.830[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 21:29:36.392[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 21:29:51.099[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 21:30:09.979[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 21:30:10.974[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 21:30:27.537[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 21:30:28.024[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 22:02:04.969[ERROR] : (conn=6774) Column 'contents' cannot be null
+2025-09-28 22:02:06.902[ERROR] : (conn=6774) Column 'contents' cannot be null
+2025-09-28 22:02:15.279[ERROR] : (conn=6774) Column 'contents' cannot be null
+2025-09-28 22:02:18.588[ERROR] : (conn=6774) Column 'contents' cannot be null
+2025-09-28 22:02:19.705[ERROR] : (conn=6774) Column 'contents' cannot be null
+2025-09-28 22:03:53.697[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 22:03:55.066[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 22:03:58.342[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 22:03:59.054[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 22:03:59.370[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 22:04:47.409[ERROR] : (conn=6774) Column 'contents' cannot be null
+2025-09-28 22:06:34.537[ERROR] : (conn=6774) Column 'contents' cannot be null
+2025-09-28 22:06:35.441[ERROR] : (conn=6774) Column 'contents' cannot be null
+2025-09-28 22:06:36.124[ERROR] : (conn=6774) Column 'contents' cannot be null
+2025-09-28 22:06:36.561[ERROR] : (conn=6774) Column 'contents' cannot be null
+2025-09-28 23:16:31.035[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 23:16:32.115[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 23:16:33.131[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 23:43:18.434[ERROR] : (conn=6984) Column 'writer' cannot be null
+2025-09-28 23:43:19.277[ERROR] : (conn=6985) Column 'writer' cannot be null
+2025-09-28 23:48:34.497[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 23:48:39.499[ERROR] : 만료된 JWT 토큰입니다.
+2025-09-28 23:49:14.403[ERROR] : (conn=7047) Column 'writer' cannot be null
